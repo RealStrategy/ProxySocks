@@ -37,7 +37,7 @@ Script en Bash para instalar, configurar y administrar automáticamente servidor
 ```
 
 ## 🚀 Instalación
-- git clone https://github.com/tuusuario/ProxySocks.git
+- git clone https://github.com/RealStrategy/ProxySocks.git
 - cd ProxySocks
 - chmod +x proxysocks.sh
 - ./proxysocks.sh
